@@ -13,4 +13,4 @@ Click [here](http://heroku-opencart-mysql.herokuapp.com/) to see live demo for O
 
 [![Add-ons](http://technomile.github.io/img/drupal-buidpack.png)](http://www.technomile.com/heroku/opencart-buildpack)
 
-Check out the [documentation](http://technomile.github.io/opencart/) to learn more about Heroku & OpenCart and to set up your own instance. 
+Check out the [documentation](http://technomile.github.io/opencart/) to learn more about Heroku & OpenCart and to set up your own instance.
